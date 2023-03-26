@@ -60,7 +60,11 @@ p {
     line-height: 1.8em;
 }
 
-.portfolio
+.portfolio > section {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
 
 footer {
     background-color: aqua;
