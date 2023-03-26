@@ -4,6 +4,19 @@
     box-sizing: border-box;
 }
 
+header {
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header .Menu {
+    background-color: lightgrey;
+    padding: 15px;
+
+}
+
 body {
     background-color:beige;
 }
