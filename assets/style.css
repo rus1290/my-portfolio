@@ -72,6 +72,12 @@ p {
 
 }
 
+.portfolio > section .body {
+    padding-left: 40px;
+    box-sizing: border-box;
+    width: 80%;
+}
+
 .gallery {
     display: flex;
     flex-direction: row;
