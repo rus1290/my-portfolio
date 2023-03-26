@@ -77,6 +77,12 @@ p {
 
 }
 
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 footer {
     background-color: aqua;
     display: flex;
