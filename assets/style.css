@@ -8,7 +8,7 @@ header {
     background-color: aqua;
     display: flex;
     flex-direction: row;
-    font-family: sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: space-between;
     padding: 30px 10px;
     align-items: center;
@@ -64,6 +64,17 @@ p {
     display: flex;
     flex-direction: row;
     margin-bottom: 30px;
+}
+
+.portfolio > section aside {
+    padding-right: 20px;
+    box-sizing: border-box;
+    width: 20%;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #406781;
+    border-right: 4px solid black;
+
 }
 
 footer {
