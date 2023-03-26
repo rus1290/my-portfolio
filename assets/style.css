@@ -114,6 +114,16 @@ img {
     opacity: .5;    
 }
 
+.gallery > div .info {
+    position: absolute;
+    width: 100px;
+    padding: 10px;
+    left: 0;
+    bottom: 50px;
+    background-color: aqua;
+    font-family: sans-serif;
+}
+
 footer {
     background-color: aqua;
     display: flex;
