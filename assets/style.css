@@ -131,7 +131,10 @@ img {
     left: 0;
     bottom: 50px;
     background-color: aqua;
-    font-family: sans-serif;
+}
+
+.gallery > div p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 footer {
