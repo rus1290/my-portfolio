@@ -92,6 +92,12 @@ img {
     width: 100%;
 }
 
+.photo-one {
+    width: 30rem;
+    height: auto;
+    margin-bottom: 25px;
+}
+
 .gallery > div {
     width: 100%;
     margin: 0 1% 1% 0;
