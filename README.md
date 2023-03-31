@@ -18,6 +18,10 @@ This section provides the user with the information on how to reach me.
 I had used HTML to structure my webpage, taking into consideration best practises for structuring webpages, such as taking into consideration semantic elements, proper order of h tags and using appropriate tags such as: main, nav, footer and other, in accordance with their corresponding sections.
 I've used style.css file to add some styling to my webpage through CSS  properties, used classes and ID's, created in my HTML file, to display the content of a webpage in the way that I want, and also used flex-box to make the webpage responsive.
 
+<<<<<<< HEAD
 ![image](assets\screenshot.jpg)
+=======
+![Alt text](C\my-portfolio\assets\screenshot.jpg)
+>>>>>>> b5ea851397c8e8441e0982375580eba91a40e552
 
 My Portfolio webpage link(https://rus1290.github.io/my-portfolio/)
